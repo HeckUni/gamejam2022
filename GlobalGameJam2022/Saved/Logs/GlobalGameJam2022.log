@@ -1006,3 +1006,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.01.29-12.14.09:532][609]AssetCheck: New page: Asset Save: multiple assets
 [2022.01.29-12.14.09:532][609]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
 [2022.01.29-12.14.09:532][609]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.01.29-12.15.39:550][572]LogSlate: Window 'Source Control Login' being destroyed
